@@ -1,0 +1,9 @@
+# Only the fraud project is tracked; data and course materials stay local
+*
+!.gitignore
+!fraud_app.py
+!README.md
+!requirements.txt
+!experiments/
+!experiments/*.py
+__pycache__/
